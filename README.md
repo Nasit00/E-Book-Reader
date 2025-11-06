@@ -2,7 +2,7 @@
 
 This is a console-based Python application that simulates a simple e-book store. It allows users to browse books, purchase them, view transaction history, and read purchased books through a simple, built-in e-book reader.
 
-[cite_start]This project demonstrates key Object-Oriented Programming (OOP) principles, including Abstraction, Inheritance, and Composition[cite: 15].
+This project demonstrates key Object-Oriented Programming (OOP) principles, including Abstraction, Inheritance, and Composition[cite: 15].
 
 ## :books: Features
 
@@ -41,15 +41,15 @@ This is a console-based Python application that simulates a simple e-book store.
 ```
 E-Book Reader/
 │
-[cite_start]├─ abcItem.py      # Abstract Class (Abstraction) [cite: 15]
-[cite_start]├─ user.py         # User class inherits Item(Inheritance) [cite: 15]
-[cite_start]├─ userlist.py     # UserList has list of users(Composition) [cite: 15]
-[cite_start]├─ book.py         # Book class inherits Item(Inheritance) [cite: 15]
-[cite_start]├─ booklist.py     # BookList has list of books(Composition) [cite: 15]
-[cite_start]├─ transaction.py  # Transaction class [cite: 15]
-[cite_start]├─ purchase.py     # Purchase class [cite: 15]
-[cite_start]├─ store.py        # Store class [cite: 15, 16]
+├─ abcItem.py      # Abstract Class (Abstraction) 
+├─ user.py         # User class inherits Item(Inheritance) 
+├─ userlist.py     # UserList has list of users(Composition) 
+├─ book.py         # Book class inherits Item(Inheritance) 
+├─ booklist.py     # BookList has list of books(Composition) 
+├─ transaction.py  # Transaction class 
+├─ purchase.py     # Purchase class 
+├─ store.py        # Store class 
 ├─ reader.py       # E-Book reader class
 ├─ app.py          # Main application menu and logic
-[cite_start]└─ main.py         # Main menu program (Entry Point) [cite: 16]
+└─ main.py         # Main menu program (Entry Point) 
 ```
